@@ -96,5 +96,3 @@ def symentric_version_redirection(versions_list,uri_requested):
     # print(major_count)
 
   return return_result
-
-print(symentric_version_redirection(version_list,uri_requested))
