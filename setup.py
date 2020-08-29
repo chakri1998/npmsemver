@@ -9,7 +9,7 @@ classifiers = [
 ]
  
 setup(
-  name='npmsemver',
+  name='pythonsemver',
   version='0.0.1',
   description='this is used for redirection by lambda edge and for semantic-versioning',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
