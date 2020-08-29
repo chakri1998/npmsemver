@@ -13,7 +13,7 @@ setup(
   version='0.0.1',
   description='this is used for redirection by lambda edge and for semantic-versioning',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='https://github.com/chakri1998/npm-semantic-versioning',  
+  url='https://github.com/chakri1998/npmsemver',  
   author='Devarakonda Chakradhar',
   author_email='chakradhar1998@outlook.com',
   license='MIT', 
